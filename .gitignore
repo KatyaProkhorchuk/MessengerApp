@@ -1,0 +1,7 @@
+.vscode
+build
+Doxyfile
+Doxyfile.*
+html
+latex
+.DS_Store
